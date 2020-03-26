@@ -43,11 +43,11 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/syafiqnkholis/web3_react.git"
+    "url": "git+https://github.com/syafiqnkholis/web3_react2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/syafiqnkholis/web3_react/issues"
+    "url": "https://github.com/syafiqnkholis/web3_react2/issues"
   }
 }
