@@ -2,7 +2,7 @@
   "name": "helloword",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://syafiqnkholis.github.io/WEB3B-431744-SYAFIQ-REACT",
+  "homepage": "https://syafiqnkholis.github.io/web3_react2",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
